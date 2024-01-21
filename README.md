@@ -21,6 +21,4 @@ Fashion MNIST, a data set containing items of clothing. Used CNN to train the NN
  9 Ankle boot
 
 3. **Using Image Generator for classifying and Labeling the given image with TensorFlow:**
-using the happy or sad dataset, which contains 80 images of emoji-like faces, 40 happy and 40 sad.
-
-Created a convolutional neural network that trains to 99.9% accuracy on these images,  which cancels training upon hitting this training accuracy threshold.
+using the happy or sad dataset, which contains 80 images of emoji-like faces, 40 happy and 40 sad.Created a convolutional neural network that trains to 99.9% accuracy on these images,  which cancels training upon hitting this training accuracy threshold.
